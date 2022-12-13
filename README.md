@@ -77,7 +77,7 @@ https://www.oracle.com/java/technologies/downloads/#jdk19-windows
 <hr>
 
 
-<a href="https://youtu.be/Wtr_DD-1w8Q"><img align="left" alt="cabon2" width="26px" src="https://user-images.githubusercontent.com/67513038/207222059-7b8acdae-a68a-4c4f-ab32-7491d278d7f9.jpeg"></a>
+<a href="https://youtu.be/Wtr_DD-1w8Q"><img align="left" alt="cabon2" width="226px" src="https://user-images.githubusercontent.com/67513038/207222059-7b8acdae-a68a-4c4f-ab32-7491d278d7f9.jpeg"></a>
 
 #  Carbon Language(C++ 다음 버젼)
 
