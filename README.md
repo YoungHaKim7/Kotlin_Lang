@@ -28,3 +28,13 @@ https://kotlinlang.org/docs/command-line.html
 <br>
 
 <hr>
+
+# Java SE Development Kit 19.0.1 downloads.
+
+
+https://www.oracle.com/java/technologies/downloads/#jdk19-windows
+
+
+<br>
+
+<hr>
