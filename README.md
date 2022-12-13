@@ -1,5 +1,38 @@
 # Kotlin_Lang
 
+  
+- Create and run an application﻿
+Create a simple application in Kotlin that displays "Hello, World!". In your favorite editor, create a new file called hello.kt with the following lines:
+
+```
+fun main() {
+    println("Hello, World!")
+}
+```
+
+
+- 2. Compile the application using the Kotlin compiler:
+
+kotlinc hello.kt -include-runtime -d hello.jar
+The -d option indicates the output path for generated class files, which may be either a directory or a .jar file. The -include-runtime option makes the resulting .jar file self-contained and runnable by including the Kotlin runtime library in it.
+
+- To see all available options, run
+
+```
+kotlinc -help
+```
+
+- Run the application.
+
+```
+java -jar hello.jar
+```
+
+
+https://kotlinlang.org/docs/command-line.html#create-and-run-an-application
+
+
+
 <br>
 
 <hr>
