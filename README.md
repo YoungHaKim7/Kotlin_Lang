@@ -1,4 +1,10 @@
-# The Kotlin Programming Language Course for Beginners 
+# Learn Kotlin Programming – Full Course for Beginners(13hr)
+
+https://youtu.be/EExSSotojVI
+
+<br>
+
+# The Kotlin Programming Language Course for Beginners
 
 https://youtube.com/playlist?list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz
 
@@ -8,16 +14,14 @@ https://youtube.com/playlist?list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz
 
 # Kotlin_Lang
 
-  
 - Create and run an application﻿
-Create a simple application in Kotlin that displays "Hello, World!". In your favorite editor, create a new file called hello.kt with the following lines:
+  Create a simple application in Kotlin that displays "Hello, World!". In your favorite editor, create a new file called hello.kt with the following lines:
 
 ```
 fun main() {
     println("Hello, World!")
 }
 ```
-
 
 - 2. Compile the application using the Kotlin compiler:
 
@@ -40,10 +44,7 @@ kotlinc -help
 java -jar hello.jar
 ```
 
-
 https://kotlinlang.org/docs/command-line.html#create-and-run-an-application
-
-
 
 <br>
 
@@ -65,7 +66,6 @@ https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMS43LjIxIiwicGxhdGZvcm0iOiJqYXZhIiw
 
 <hr>
 
-
 # Kotlin command-line
 
 https://kotlinlang.org/docs/command-line.html
@@ -76,25 +76,21 @@ https://kotlinlang.org/docs/command-line.html
 
 # Java SE Development Kit 19.0.1 downloads.
 
-
 https://www.oracle.com/java/technologies/downloads/#jdk19-windows
-
 
 <br>
 
 <hr>
 
-
 <a href="https://youtu.be/Wtr_DD-1w8Q"><img align="left" alt="cabon2" width="226px" src="https://user-images.githubusercontent.com/67513038/207222059-7b8acdae-a68a-4c4f-ab32-7491d278d7f9.jpeg"></a>
 
-#  Carbon Language(C++ 다음 버젼)
+# Carbon Language(C++ 다음 버젼)
 
 https://youtu.be/Wtr_DD-1w8Q
 
 <br>
 
 <hr>
-
 
 # 모든 언어를 무료로 공부할 수 있다.
 
