@@ -24,6 +24,10 @@ https://youtube.com/playlist?list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz
 
 <br>
 
+# Kotlin Course for Beginners and Java Devs
+
+https://youtube.com/playlist?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2
+
 <hr>
 
 # Kotlin_Lang
