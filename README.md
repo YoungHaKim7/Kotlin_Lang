@@ -22,6 +22,10 @@ https://youtu.be/EExSSotojVI
 
 https://youtube.com/playlist?list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz
 
+# Kotlin For Java Developers Complete Course | Nerd's lesson
+
+https://youtu.be/dMyRywABp_c?si=1oKN6QCXB0voWiKa
+
 <br>
 
 # Kotlin Course for Beginners and Java Devs
