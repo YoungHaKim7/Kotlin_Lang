@@ -32,6 +32,11 @@ https://youtu.be/dMyRywABp_c?si=1oKN6QCXB0voWiKa
 
 https://youtube.com/playlist?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2
 
+
+# Kotlin Crash Course for Java Developers
+
+https://youtu.be/pXdY1B-KVJg?si=kFAChRvqETjXnpgo
+
 <hr>
 
 # Kotlin_Lang
