@@ -12,6 +12,13 @@ https://kotlinlang.org/
 
 https://wickedmagica.tistory.com/224
 
+<hr>
+
+#  Kotlin Course - Tutorial for Beginners(2hr 30min) | freeCodeCamp.org
+
+https://youtu.be/F9UC9DY-vIU?si=2xxJPtOlGJWfBetN
+
+
 # Learn Kotlin Programming – Full Course for Beginners(13hr)
 
 https://youtu.be/EExSSotojVI
