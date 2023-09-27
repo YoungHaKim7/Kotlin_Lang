@@ -11,7 +11,39 @@ https://kotlinlang.org/docs/jvm-test-using-junit.html#what-s-next
 
 - junit-platform-console-standalone-1.9.3설치 파일 https://repo1.maven.org/maven2/org/junit/platform/junit-platform-console-standalone/
 
-- Test Kotlin
+- Test Kotlin(macOS)
+
+```
+kotlinc src/Main.kt -include-runtime -d out/Main.jar
+
+java -jar ./junit-platform-console-standalone-1.9.3.jar --scan-class-path
+
+
+Thanks for using JUnit! Support its development at https://junit.org/sponsoring
+
+╷
+├─ JUnit Jupiter ✔
+├─ JUnit Vintage ✔
+└─ JUnit Platform Suite ✔
+
+Test run finished after 18 ms
+[         3 containers found      ]
+[         0 containers skipped    ]
+[         3 containers started    ]
+[         0 containers aborted    ]
+[         3 containers successful ]
+[         0 containers failed     ]
+[         0 tests found           ]
+[         0 tests skipped         ]
+[         0 tests started         ]
+[         0 tests aborted         ]
+[         0 tests successful      ]
+[         0 tests failed          ]
+  
+```
+
+
+- Test Kotlin(WindowsOS)
 
 ```
 PS D:\Test_Kotlin_code> kotlinc .\src\Main.kt -include-runtime -d dist/Main.jar
