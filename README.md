@@ -1,3 +1,11 @@
+# kotlin-language-server(LSP)
+
+https://github.com/fwcd/kotlin-language-server
+
+- 이게 젤 유명한거 같은데 Jetbrain에서 상업화때문에 거의 방치 모드 되었음. ㅠㅠ 역시 돈......
+
+<hr>
+
 # Kotlin-eclipse 
 
 - Kotlin Plugin for Eclipse
