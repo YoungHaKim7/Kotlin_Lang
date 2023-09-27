@@ -2,6 +2,28 @@
 
 <hr>
 
+# Doom Emacs 에서 추가로 설치해야하는 패키지 Recommended packages
+
+```
+Recommended packages
+
+- kotlin-mode
+- company-mode
+- yasnippet
+- lsp-mode
+- lsp-ui
+- lsp-treemacs
+- dap-mode
+
+
+-- Other useful packages
+- undo-tree
+- magit
+- helm
+- projectile
+- company-box
+```
+
 # kotlin-language-server(LSP)
 
 https://github.com/fwcd/kotlin-language-server
