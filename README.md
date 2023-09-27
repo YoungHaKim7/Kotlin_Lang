@@ -22,6 +22,11 @@ Recommended packages
 - helm
 - projectile
 - company-box
+
+
+-- Where the magic happens
+- kotlin-language-server
+- kotlin-debug-adapter
 ```
 
 # kotlin-language-server(LSP)
