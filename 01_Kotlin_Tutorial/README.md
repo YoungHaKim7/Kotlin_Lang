@@ -18,3 +18,7 @@ https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-p
 - Kotlin Official Documentation https://kotlinlang.org/docs/home.html
 - Kotlin Quick Reference(gitbook) https://kotlin-quick-reference.com/
 - Learning Kotlin - Compiled from StackOverflow Documentation (PDF)
+
+# 다른 Tutorial 
+
+https://github.com/halilozel1903/KotlinTutorials
