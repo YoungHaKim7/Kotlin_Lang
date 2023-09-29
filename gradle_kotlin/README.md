@@ -1,3 +1,16 @@
+# ```.gitignore```
+
+```
+
+.idea/
+.gradle/
+out/
+build/
+tmp/
+*.iml  
+```
+
+
 # Setup Eclipse For Kotlin Development
 
 https://in-kotlin.com/ide/eclipse/
