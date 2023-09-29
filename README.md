@@ -2,6 +2,12 @@
 
 <hr>
 
+# 코틀린 소개 100초 짜리  Kotlin in 100 Seconds | Fireship
+
+https://youtu.be/xT8oP0wy-A0?si=qAlcQTdmTyFTfAOl
+
+<hr>
+
 # sdk로 자바랑 gradle 버젼 매니져
 
 https://sdkman.io/
