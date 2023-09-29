@@ -22,6 +22,21 @@ application {
 }
 ```
 
+- ```./vscode/launch.json``` "mainClass" 똑같이 잘 적어줘야 디버깅 가능 Debugging
+```json
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "kotlin",
+            "request": "launch",
+            "name": "Kotlin Launch",
+            "projectRoot": "${workspaceFolder}/app",
+            "mainClass": "gradle.test01.AppKt"
+        }
+    ]
+}
+```
 
 <hr>
 
