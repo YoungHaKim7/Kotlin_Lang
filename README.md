@@ -79,6 +79,64 @@ gradle init --type=kotlin-application
 
 <hr>
 
+# Java & Kotlin ```.gitignore```
+
+- https://github.com/github/gitignore
+
+```
+.gradle
+**/build/
+!src/**/build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Avoid ignore Gradle wrappper properties
+!gradle-wrapper.properties
+
+# Cache of project
+.gradletasknamecache
+
+# Eclipse Gradle plugin generated files
+# Eclipse Core
+.project
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+```
+
+# Java & Kotlin echo ```.gitignore```
+
+```
+echo ".gradle" >> .gitignore &&
+echo "**/build/" >> .gitignore &&
+echo "\x21src/**/build/\xa" >> .gitignore &&
+
+echo "# Ignore Gradle GUI config" >> .gitignore &&
+echo "gradle-app.setting\xa" >> .gitignore &&
+
+echo "# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)" >> .gitignore &&
+echo "\x21gradle-wrapper.jar\xa" >> .gitignore &&
+
+echo "# Avoid ignore Gradle wrappper properties" >> .gitignore &&
+echo "\x21gradle-wrapper.properties\xa" >> .gitignore &&
+
+echo "# Cache of project" >> .gitignore &&
+echo ".gradletasknamecache\xa" >> .gitignore &&
+
+echo "# Eclipse Gradle plugin generated files" >> .gitignore &&
+echo "# Eclipse Core" >> .gitignore &&
+echo ".project" >> .gitignore &&
+echo "# JDT-specific (Eclipse Java Development Tools)" >> .gitignore &&
+echo ".classpath" >> .gitignore
+```
+
+
+<hr>
+
+
 
 # Doom Emacs 에서 추가로 설치해야하는 패키지 Recommended packages
 
