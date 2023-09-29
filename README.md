@@ -13,6 +13,14 @@ https://youtu.be/xT8oP0wy-A0?si=qAlcQTdmTyFTfAOl
 https://sdkman.io/
 
 ```
+sdk install gradle 8.4-rc-2
+sdk install java 17.0.8.1-tem
+```
+
+<hr>
+
+
+```
 // search
 sdk list java
 
