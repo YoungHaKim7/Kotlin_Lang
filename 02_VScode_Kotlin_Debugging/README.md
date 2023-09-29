@@ -1,9 +1,25 @@
-# create a kotlin sample app(gradle)
+# VScode Debugging
 
 ```
-% mkdir kt-sample-app
-% cd kt-sample-app
-% gradle init --type=kotlin-application
+gradle build
+
+// and
+
+// VScode Debugging
+
+```
+
+# create a kotlin sample app(gradle)
+
+- ```gradle init --type=kotlin-application```
+
+```
+$ mkdir kt-sample-app
+
+$ cd kt-sample-app
+
+$ gradle init --type=kotlin-application
+
 # Select all default choices is OK
  
 # Have a try is everything is ok
