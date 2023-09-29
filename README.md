@@ -55,6 +55,14 @@ Usage: sdk <command> [candidate] [version]
                  eg: $ sdk install groovy 2.4.13-local /opt/groovy-2.4.13
 ```
 
+
+- kotlin gradle로 프로젝트 만들기 
+
+```
+gradle init --type=kotlin-application 
+```
+
+
 <hr>
 
 
