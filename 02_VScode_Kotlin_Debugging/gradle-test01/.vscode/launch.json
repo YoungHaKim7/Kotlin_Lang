@@ -5,9 +5,8 @@
             "type": "kotlin",
             "request": "launch",
             "name": "Kotlin Launch",
-            "projectRoot": "${workspaceFolder}",
-            "mainClass": "kt/sample/app/AppKt",
-            "preLaunchTask": "build"
+            "projectRoot": "${workspaceFolder}/app",
+            "mainClass": "gradle.test01.AppKt"
         }
     ]
 }
