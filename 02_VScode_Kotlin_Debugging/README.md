@@ -1,3 +1,21 @@
+# package name확인은 
+
+```
+app/src/main/kotlin/gradle/test01/App.kt
+코드 안을 보면 상단에 적혀 있다.
+
+or
+
+app/
+
+
+package gradle.test01
+```
+
+
+
+<hr>
+
 # VScode Debugging
 
 https://github.com/fwcd/kotlin-debug-adapter
