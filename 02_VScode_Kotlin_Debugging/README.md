@@ -12,6 +12,15 @@ app/
 package gradle.test01
 ```
 
+- package name 다른 방법으로 확인
+- ```app/build.gradle.kts``` 에서 확인 가능
+```
+
+application {
+    // Define the main class for the application.
+    mainClass.set("gradle.test01.AppKt")
+}
+```
 
 
 <hr>
