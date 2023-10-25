@@ -6,6 +6,8 @@ https://youtu.be/EExSSotojVI
 
 https://developer.android.com/codelabs/basic-android-kotlin-compose-first-program?hl=ko#0
 
+- Kotlin 스타일 가이드
+  - https://developer.android.com/kotlin/style-guide?hl=ko
 
 # Kotlin Quick Reference - Alvin Alexander 
 
