@@ -2,6 +2,10 @@
 
 https://youtu.be/EExSSotojVI
 
+# 구글에서 제공하는 Kotlin Tutorial
+
+https://developer.android.com/codelabs/basic-android-kotlin-compose-first-program?hl=ko#0
+
 
 # Kotlin Quick Reference - Alvin Alexander 
 
