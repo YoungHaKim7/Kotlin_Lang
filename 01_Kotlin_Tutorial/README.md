@@ -2,6 +2,12 @@
 
 https://youtu.be/EExSSotojVI
 
+# (6hr) Kotlin Programming Full Tutorial with Android Development Project | Android Studio | @SCALER 
+
+https://youtu.be/mOYN9HlfTgo?si=MD1iIe6Pp0lQQxTJ
+
+<hr>
+
 # 구글에서 제공하는 Kotlin Tutorial
 
 https://developer.android.com/codelabs/basic-android-kotlin-compose-first-program?hl=ko#0
