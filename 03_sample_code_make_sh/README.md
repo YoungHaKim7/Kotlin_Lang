@@ -20,7 +20,7 @@ clean:
 init:
 		mkdir src
 		echo "fun main() {" >> src/Main.kt
-		echo "	  println(\"Hello, World! Kotlin lang\" >> src/Main.kt
+		echo "	  println(\"Hello, World! Kotlin lang\")" >> src/Main.kt
 		echo "}" >> src/Main.kt
 
 init2:
