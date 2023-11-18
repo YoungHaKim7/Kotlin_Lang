@@ -112,6 +112,8 @@ gradle-app.setting
 # Java & Kotlin echo ```.gitignore```
 
 ```
+echo "# Result\xa\xa\x60\x60\x60\xa\xa\x60\x60\x60" >> README.md &&
+
 echo ".gradle" >> .gitignore &&
 echo "**/build/" >> .gitignore &&
 echo "\x21src/**/build/\xa" >> .gitignore &&
