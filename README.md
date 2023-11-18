@@ -120,6 +120,8 @@ gradle-app.setting
 ```
 echo "# Result\xa\xa\x60\x60\x60\xa\xa\x60\x60\x60" >> README.md &&
 
+
+echo "out/" >> .gitignore &&
 echo ".gradle" >> .gitignore &&
 echo "**/build/" >> .gitignore &&
 echo "\x21src/**/build/\xa" >> .gitignore &&
