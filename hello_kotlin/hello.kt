@@ -1,3 +1,3 @@
 fun main() {
-    println("Hello, World! Ktlin lang ");
+    println("Hello, World! Kotlin lang ");
 }
