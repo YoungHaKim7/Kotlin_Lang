@@ -7,6 +7,10 @@
 # Link
 - <a href="https://github.com/YoungHaKim7/Kotlin_Lang#java--kotlin-echo-gitignore">echo로 .gitignore 넣기</a>
 
+https://github.com/YoungHaKim7/Kotlin_Lang#makefile-%EA%B0%84%EB%8B%A8%ED%95%9C-kotlin%EC%8B%A4%ED%96%89
+
+- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#makefile-%EA%B0%84%EB%8B%A8%ED%95%9C-kotlin%EC%8B%A4%ED%96%89">Makefile간단히 만들기</a>
+
 
 # 코틀린 소개 100초 짜리  Kotlin in 100 Seconds | Fireship
 
