@@ -117,6 +117,9 @@ gradle-app.setting
 
 # Java & Kotlin echo ```.gitignore```<a href="https://github.com/YoungHaKim7/Kotlin_Lang#link">[🔝]</a>
 
+- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#makefile-%EA%B0%84%EB%8B%A8%ED%95%9C-kotlin%EC%8B%A4%ED%96%89">Makefile간단히 만들기</a>
+
+
 ```
 echo "# Result\xa\xa\x60\x60\x60\xa\xa\x60\x60\x60" >> README.md &&
 
