@@ -14,11 +14,11 @@ clean:
 init:
 		mkdir src
 		echo "fun main() {" >> src/Main.kt
-		echo "	println(\"Hello, World! Kotlin lang\")" >> src/Main.kt
+		echo "	  println(\"Hello, World! Kotlin lang\")" >> src/Main.kt
 		echo "}" >> src/Main.kt
 
 init2:
 		mkdir src
 		echo "fun main(args : Array<String>) {" >> src/Main.kt
-		echo "	println(\"Hello, World! Kotlin lang\" >> src/Main.kt
+		echo "	  println(\"Hello, World! Kotlin lang\" >> src/Main.kt
 		echo "}" >> src/Main.kt
