@@ -35,6 +35,8 @@ init2:
 
 # VSCode debugging
 
+- ```Makefile```
+
 ```Makefile
 vscode:
 		rm -rf .vscode
