@@ -2,6 +2,7 @@
 
 - ```make``` or ```make run```
 
+- ```Makefile``` 예시
 ```Makefile
 r:
 		kotlinc src/Main.kt -include-runtime -d out/Main.jar
