@@ -145,6 +145,8 @@ echo ".classpath" >> .gitignore
 
 # Makefile (간단한 kotlin실행)<a href="https://github.com/YoungHaKim7/Kotlin_Lang#link">[🔝]</a>
 
+- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#java--kotlin-echo-gitignore">echo로 .gitignore 넣기</a>
+
 ```Makefile
 r:
 		kotlinc src/Main.kt -include-runtime -d out/Main.jar
