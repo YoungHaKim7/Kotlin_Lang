@@ -180,6 +180,7 @@ TARGET = ./out/Main.jar
 LDFLAGS_COMMON = -include-runtime
 
 r:
+		rm -rf out
 		$(KC) $(SOURCE_KT) $(LINK_OBJ) $(LDFLAGS_COMMON) -d $(TARGET)
 		$(JAVA) -jar $(TARGET)
 t:
@@ -230,6 +231,7 @@ TARGET = ./out/Main.jar
 LDFLAGS_COMMON = -include-runtime
 
 r:
+		rm -rf out
 		$(KC) $(SOURCE_KT) $(LINK_OBJ) $(LDFLAGS_COMMON) -d $(TARGET)
 		$(JAVA) -jar $(TARGET)
 t:
