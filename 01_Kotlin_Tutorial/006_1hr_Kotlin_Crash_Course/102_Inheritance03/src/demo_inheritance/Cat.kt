@@ -1,4 +1,4 @@
-package src.demo_inheritance
+package demo_inheritance
 
 class Cat : Animal("Cat") {
 
