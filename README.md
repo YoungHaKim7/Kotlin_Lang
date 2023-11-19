@@ -253,7 +253,7 @@ init2:
 		echo "}" >> src/Main.kt
 ```
 
-- VSCode Debugging .vscode 자동 만들기
+# VSCode Debugging .vscode 자동 만들기
 
 ```Makefile
 vscode:
