@@ -154,15 +154,25 @@ echo ".classpath" >> .gitignore
 - <a href="https://github.com/YoungHaKim7/Kotlin_Lang#java--kotlin-echo-gitignore">echo로 .gitignore 넣기</a>
 
 ```Makefile
+KC = kotlinc
+JAVA = java
+
+SOURCE_KT = ./src/Main.kt
+TEST_SOURCE_KT = /junit-platform-console-standalone-1.9.3.jar
+LINK_OBJ = ./src/Animal.kt
+
+TARGET = ./out/Main.jar
+LDFLAGS_COMMON = -include-runtime
+
 r:
-		kotlinc src/Main.kt -include-runtime -d out/Main.jar
-		java -jar out/Main.jar
+		$(KC) $(SOURCE_KT) $(LINK_OBJ) $(LDFLAGS_COMMON) -d $(TARGET)
+		$(JAVA) -jar $(TARGET)
 t:
-		kotlinc src/Main.kt -include-runtime -d out/Main.jar
-		java -jar ./junit-platform-console-standalone-1.9.3.jar --scan-class-path
+		$(KC) $(SOURCE_KT) $(LDFLAGS_COMMON) -d $(TARGET)
+		$(JAVA) -jar .$(TEST_SOURCE_KT) --scan-class-path
 
 d:
-		wget https://repo1.maven.org/maven2/org/junit/platform/junit-platform-console-standalone/1.9.3/junit-platform-console-standalone-1.9.3.jar
+		wget https://repo1.maven.org/maven2/org/junit/platform/$(TEST_SOURCE_KT)
 
 clean:
 		rm -rf out *.jar
