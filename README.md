@@ -13,6 +13,8 @@
 - <a href="https://github.com/YoungHaKim7/Kotlin_Lang#makefile-%EC%97%AC%EB%9F%AC%EA%B0%9C-%ED%8C%8C%EC%9D%BC-%EC%97%B0%EA%B2%B0-kotlin%EC%8B%A4%ED%96%89
 ">Makefile 링크로 여러개 파일 연결 만들기</a>
 
+- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#vscode-debugging-vscode-%EC%9E%90%EB%8F%99-%EB%A7%8C%EB%93%A4%EA%B8%B0">VSCode Debugging 넣기</a>
+
 
 # 코틀린 소개 100초 짜리  Kotlin in 100 Seconds | Fireship
 
@@ -254,6 +256,14 @@ init2:
 ```
 
 # VSCode Debugging .vscode 자동 만들기
+
+- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#java--kotlin-echo-gitignore">echo로 .gitignore 넣기</a>
+
+- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#makefile-%EA%B0%84%EB%8B%A8%ED%95%9C-kotlin%EC%8B%A4%ED%96%89">Makefile간단히 만들기</a>
+
+- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#makefile-%EC%97%AC%EB%9F%AC%EA%B0%9C-%ED%8C%8C%EC%9D%BC-%EC%97%B0%EA%B2%B0-kotlin%EC%8B%A4%ED%96%89
+">Makefile 링크로 여러개 파일 연결 만들기</a>
+
 
 ```Makefile
 vscode:
