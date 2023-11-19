@@ -153,6 +153,8 @@ echo ".classpath" >> .gitignore
 
 - <a href="https://github.com/YoungHaKim7/Kotlin_Lang#java--kotlin-echo-gitignore">echo로 .gitignore 넣기</a>
 
+- Link 하는 Makefile
+
 ```Makefile
 KC = kotlinc
 JAVA = java
@@ -179,9 +181,20 @@ clean:
 
 init:
 		mkdir src
+		echo "package src" >> src/Main.kt
+		echo "import Animal" >> src/Main.kt
+		echo "" >> src/Main.kt
 		echo "fun main() {" >> src/Main.kt
 		echo "	println(\"Hello, World! Kotlin lang\")" >> src/Main.kt
 		echo "}" >> src/Main.kt
+		echo "class Animal(" >> src/Animal.kt
+		echo "	val name: String" >> src/Animal.kt
+		echo ") {" >> src/Animal.kt
+		echo "" >> src/Animal.kt
+		echo "	init {" >> src/Animal.kt
+		echo "		println(\"Hello, my name is \24name\")" >> src/Animal.kt
+		echo "	}" >> src/Animal.kt
+		echo "}" >> src/Animal.kt
 
 init2:
 		mkdir src
