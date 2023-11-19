@@ -199,6 +199,8 @@ init2:
 
 # Makefile (여러개 파일 연결 kotlin실행)<a href="https://github.com/YoungHaKim7/Kotlin_Lang#link">[🔝]</a>
 
+- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#makefile-%EA%B0%84%EB%8B%A8%ED%95%9C-kotlin%EC%8B%A4%ED%96%89">Makefile간단히 만들기</a>
+
 - Link 하는 Makefile
 
 ```Makefile
