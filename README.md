@@ -127,6 +127,7 @@ gradle-app.setting
 - <a href="https://github.com/YoungHaKim7/Kotlin_Lang#makefile-%EC%97%AC%EB%9F%AC%EA%B0%9C-%ED%8C%8C%EC%9D%BC-%EC%97%B0%EA%B2%B0-kotlin%EC%8B%A4%ED%96%89
 ">Makefile 링크로 여러개 파일 연결 만들기</a>
 
+- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#vscode-debugging-vscode-%EC%9E%90%EB%8F%99-%EB%A7%8C%EB%93%A4%EA%B8%B0">VSCode Debugging 넣기</a>
 
 ```
 echo "# Result\xa\xa\x60\x60\x60\xa\xa\x60\x60\x60" >> README.md &&
