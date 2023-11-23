@@ -22,6 +22,11 @@ https://youtu.be/xT8oP0wy-A0?si=qAlcQTdmTyFTfAOl
 
 <hr>
 
+# Android Studio Install
+
+- https://developer.android.com/studio
+
+
 # sdk로 자바랑 gradle 버젼 매니져
 
 https://sdkman.io/
