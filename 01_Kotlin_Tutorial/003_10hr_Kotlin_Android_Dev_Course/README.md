@@ -2,6 +2,13 @@
 
 https://youtu.be/kNghEbknLs8?si=I04AHhfWTgF1uZkR
 
+<hr>
+
+# Tutorial
+
+https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app#2
+
+<hr>
 
 # Kotlin (Android) 
 
