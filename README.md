@@ -282,7 +282,7 @@ init2:
 		echo "}" >> src/Main.kt
 ```
 
-# VSCode Debugging .vscode 자동 만들기
+# VSCode Debugging .vscode 자동 만들기<a href="https://github.com/YoungHaKim7/Kotlin_Lang#link">[🔝]</a>
 
 - <a href="https://github.com/YoungHaKim7/Kotlin_Lang#java--kotlin-echo-gitignore">echo로 .gitignore 넣기</a>
 - <a href="https://github.com/YoungHaKim7/Kotlin_Lang#java--kotlin-gitignore">그냥 넣기 .gitignore 넣기</a>
