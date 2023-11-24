@@ -100,10 +100,10 @@ gradle init --type=kotlin-application
 
 <hr>
 
-# Java & Kotlin ```.gitignore```
+# Java & Kotlin ```.gitignore```<a href="https://github.com/YoungHaKim7/Kotlin_Lang#link">[🔝]</a>
 
 - https://github.com/github/gitignore
-- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#java--kotlin-gitignore">그냥 넣기 .gitignore 넣기</a>
+- <a href="https://github.com/YoungHaKim7/Kotlin_Lang#java--kotlin-echo-gitignore">echo로 .gitignore 넣기</a>
 
 ```
 .gradle
