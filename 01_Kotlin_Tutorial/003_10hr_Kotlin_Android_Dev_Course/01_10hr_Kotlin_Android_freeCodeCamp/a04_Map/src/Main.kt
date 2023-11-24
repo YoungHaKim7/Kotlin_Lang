@@ -12,4 +12,5 @@ fun main(args: Array<String>) {
     names.forEach { println(it.name)}
 }
 
-class User(val name: String)
+// class User(val name: String)
+data class User(val name: String)
