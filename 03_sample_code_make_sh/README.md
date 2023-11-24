@@ -5,6 +5,7 @@
 - ```Makefile``` 예시
 ```Makefile
 r:
+		rm -rf out
 		kotlinc src/Main.kt -include-runtime -d out/Main.jar
 		java -jar out/Main.jar
 t:
