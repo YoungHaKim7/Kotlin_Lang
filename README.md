@@ -91,7 +91,7 @@ Usage: sdk <command> [candidate] [version]
 ```
 
 
-- kotlin gradle로 프로젝트 만들기 
+# kotlin gradle로 프로젝트 만들기 
 
 ```
 gradle init --type=kotlin-application 
