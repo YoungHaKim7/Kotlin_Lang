@@ -17,6 +17,8 @@
 
 - <a href="https://github.com/YoungHaKim7/Kotlin_Lang#vscode-debugging-vscode-%EC%9E%90%EB%8F%99-%EB%A7%8C%EB%93%A4%EA%B8%B0">VSCode Debugging 넣기</a>
 
+- <a href="https://github.com/YoungHaKim7/Kotlin_Lang/tree/main#kotlin-gradle%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0">gradle로 kotlin Project 만들기</a>
+
 
 # 코틀린 소개 100초 짜리  Kotlin in 100 Seconds | Fireship
 
@@ -91,7 +93,7 @@ Usage: sdk <command> [candidate] [version]
 ```
 
 
-# kotlin gradle로 프로젝트 만들기 
+# kotlin gradle로 프로젝트 만들기<a href="https://github.com/YoungHaKim7/Kotlin_Lang#link">[🔝]</a>
 
 ```
 gradle init --type=kotlin-application 
