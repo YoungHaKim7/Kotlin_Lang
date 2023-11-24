@@ -29,6 +29,8 @@ https://youtu.be/xT8oP0wy-A0?si=qAlcQTdmTyFTfAOl
 # Android Studio Install
 
 - https://developer.android.com/studio
+  - Written in JavaScript, Kotlin and C++
+    - https://en.wikipedia.org/wiki/Android_Studio
 
 
 # sdk로 자바랑 gradle 버젼 매니져
