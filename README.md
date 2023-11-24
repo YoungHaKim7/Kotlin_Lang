@@ -29,7 +29,7 @@ https://youtu.be/xT8oP0wy-A0?si=qAlcQTdmTyFTfAOl
 # Android Studio Install
 
 - https://developer.android.com/studio
-  - Written in JavaScript, Kotlin and C++
+  - Written in JavaScript, Kotlin and C++( Android Studio는 JavaScript, Kotlin and C++ 로 만들어짐)
     - https://en.wikipedia.org/wiki/Android_Studio
 
 
