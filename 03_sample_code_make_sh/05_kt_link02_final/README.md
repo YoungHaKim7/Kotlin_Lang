@@ -33,7 +33,8 @@ r:
 		$(KC) $(SOURCE_KT) $(LINK_OBJ) $(LDFLAGS_COMMON) -d $(TARGET)
 		$(JAVA) -jar $(TARGET)
 t:
-		$(KC) $(SOURCE_KT) $(LDFLAGS_COMMON) -d $(TARGET)
+		rm -rf out
+		$(KC) $(SOURCE_KT) $(LINK_OBJ) $(LDFLAGS_COMMON) -d $(TARGET)
 		$(JAVA) -jar .$(TEST_SOURCE_KT) --scan-class-path
 
 d:
