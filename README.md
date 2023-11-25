@@ -288,6 +288,10 @@ init2:
 		echo "}" >> src/Main.kt
 ```
 
+- Makefile에서 긴 줄을 다음줄로 넣는 방법
+  - https://stackoverflow.com/questions/38086542/break-long-dependencies-in-makefile-into-several-lines
+
+
 # VSCode Debugging .vscode 자동 만들기<a href="https://github.com/YoungHaKim7/Kotlin_Lang#link">[🔝]</a>
 
 - <a href="https://github.com/YoungHaKim7/Kotlin_Lang#java--kotlin-echo-gitignore">echo로 .gitignore 넣기</a>
