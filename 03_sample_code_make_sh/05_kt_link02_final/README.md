@@ -50,8 +50,10 @@ init:
 		echo "" >> src/Main.kt
 		echo "fun main() {" >> src/Main.kt
 		echo "	println(\"Hello, World! Kotlin lang\")" >> src/Main.kt
-		echo "	val dog = Animal(\"Dog\")" >> src/Main.kt
-		echo "	println(\"\x24dog\")" >> src/Main.kt
+		echo "	val dog = Dog()" >> src/Main.kt
+		echo "	dog.bark()" >> src/Main.kt
+		echo "	val cat = Cat()" >> src/Main.kt
+		echo "	cat.meow()" >> src/Main.kt
 		echo "}" >> src/Main.kt
 		echo "class Animal(" >> src/Animal.kt
 		echo "	val name: String" >> src/Animal.kt
