@@ -239,9 +239,11 @@ init2:
 KC = kotlinc
 JAVA = java
 
-SOURCE_KT = ./src/Main.kt
+SOURCE_KT = ./src/demo_inheritance/Main.kt
 TEST_SOURCE_KT = /junit-platform-console-standalone-1.9.3.jar
-LINK_OBJ = ./src/Animal.kt
+LINK_OBJ = ./src/demo_inheritance/Animal/Animal.kt \
+./src/demo_inheritance/Animal/Cat.kt \
+./src/demo_inheritance/Animal/Dog.kt
 
 TARGET = ./out/Main.jar
 LDFLAGS_COMMON = -include-runtime
