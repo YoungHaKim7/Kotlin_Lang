@@ -179,7 +179,6 @@ echo "\x21gradle-wrapper.properties\xa" >> .gitignore &&
 echo "# Cache of project" >> .gitignore &&
 echo ".gradletasknamecache\xa" >> .gitignore &&
 
-echo ".gradle" >> .gitignore &&
 echo "**/build/" >> .gitignore &&
 echo "\x21src/**/build/\xa" >> .gitignore &&
 
