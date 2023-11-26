@@ -110,7 +110,6 @@ gradle init --type=kotlin-application
 - <a href="https://github.com/YoungHaKim7/Kotlin_Lang#java--kotlin-echo-gitignore">echo로 .gitignore 넣기</a>
 
 ```
-.gradle
 **/build/
 !src/**/build/
 
@@ -126,7 +125,24 @@ gradle-app.setting
 # Cache of project
 .gradletasknamecache
 
-# Eclipse Gradle plugin generated files
+# Android Studio ##
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Eclipse Gradle plugin generated files #
 # Eclipse Core
 .project
 # JDT-specific (Eclipse Java Development Tools)
