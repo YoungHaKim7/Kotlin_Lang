@@ -1,18 +1,28 @@
 fun main() {
   val i = 5
 
-  var result = when {
-      i > 10 -> {
+  var result = if(i > 10) {
         "10 보다 크다"
       }
-      i > 5 -> {
+      else if (i > 5) {
         "5 보다 크다"
       }
-      else -> {
+      else {
         "!!!!!"
       }
-  }
-  print(result)
-
-  print('\n')
+      print(result)
+      print('\n')
 }
+
+  // var result = when {
+  //     i > 10 -> {
+  //       "10 보다 크다"
+  //     }
+  //     i > 5 -> {
+  //       "5 보다 크다"
+  //     }
+  //     else -> {
+  //       "!!!!!"
+  //     }
+  // }
+
