@@ -12,6 +12,13 @@ println(d) // 5 print
 
 ```
 
+# 코드스피츠90 - 코틀린 언어편 1회차 | 코드스피츠
+
+- https://youtu.be/1OzBh2Uuj2s?si=DD_lptSyKvJ5FEJN
+  - 영상 모아보기
+    - https://youtube.com/playlist?list=PLBNdLLaRx_rL1IC9rW__KP0Lolk0kylyP&si=qSntYD_xoeRxWEv-
+
+
 <hr>
 
 # eBook
