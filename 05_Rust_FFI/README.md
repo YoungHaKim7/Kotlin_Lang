@@ -6,6 +6,10 @@
 
 - https://github.com/daangn/permalink
 
+# NDK - samples
+
+- https://github.com/android/ndk-samples
+
 # Android NDK
 
 - Android NDK는 C 및 C++와 같은 언어를 사용하여 네이티브 코드로 앱의 일부를 구현할 수 있게 하는 도구 모음입니다. 특정 유형의 앱에서는 Android NDK를 통해 이러한 언어로 작성된 코드 라이브러리를 재사용할 수 있습니다.
