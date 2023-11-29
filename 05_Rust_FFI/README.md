@@ -1,3 +1,7 @@
+# UniFFI (TheUniFFI user guide)
+
+https://mozilla.github.io/uniffi-rs/
+
 # Rust로 공유 라이브러리 만들기 
 
 - https://sal.dev/android/intro-rust-android-uniffi/
