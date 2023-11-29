@@ -4,6 +4,10 @@ https://mozilla.github.io/uniffi-rs/
 
 - https://gitlab.com/trixnity/uniffi-kotlin-multiplatform-bindings
 
+# Rust + Android FAQs
+
+- https://mozilla.github.io/application-services/book/android-faqs.html
+
 # Rust로 공유 라이브러리 만들기 
 
 - https://sal.dev/android/intro-rust-android-uniffi/
