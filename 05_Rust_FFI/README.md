@@ -4,6 +4,9 @@ https://mozilla.github.io/uniffi-rs/
 
 - https://gitlab.com/trixnity/uniffi-kotlin-multiplatform-bindings
 
+- Crossing the Rust FFI frontier with Protocol Buffers | By Edouard Oger 
+  - https://hacks.mozilla.org/2019/04/crossing-the-rust-ffi-frontier-with-protocol-buffers/
+
 # Rust + Android FAQs
 
 - https://mozilla.github.io/application-services/book/android-faqs.html
