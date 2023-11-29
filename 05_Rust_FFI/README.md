@@ -6,6 +6,11 @@
 
 - https://github.com/daangn/permalink
 
+# Create an app using C Interop and libcurl – tutorial 
+
+- https://kotlinlang.org/docs/native-app-with-c-and-libcurl.html#before-you-start
+  - https://github.com/kotlin-hands-on/intro-kotlin-native
+
 # NDK - samples
 
 - https://github.com/android/ndk-samples
