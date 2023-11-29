@@ -21,6 +21,32 @@ https://docs.gradle.org/current/userguide/userguide.html
 
 <br>
 
+# gradle init
+
+```bash
+
+$ gradle init --type=kotlin-application
+
+Select build script DSL:
+  1: Kotlin
+  2: Groovy
+Enter selection (default: Kotlin) [1..2] 1
+
+Project name (default: Gradle_Kotlin):
+Source package (default: gradle_kotlin):
+Enter target version of Java (min. 7) (default: 21): 17
+Generate build using new APIs and behavior (some features may change in the nex
+t minor release)? (default: no) [yes, no]
+
+
+> Task :init
+To learn more about Gradle by exploring our Samples at https://docs.gradle.org/
+8.3/samples/sample_building_kotlin_applications.html
+
+BUILD SUCCESSFUL in 6m 14s
+2 actionable tasks: 2 executed  
+```
+
 # brew install gradle
 
 ```
