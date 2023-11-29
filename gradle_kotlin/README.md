@@ -23,7 +23,7 @@ https://docs.gradle.org/current/userguide/userguide.html
 
 # gradle init
 
--init 
+- init 
 
 ```
 gradle init --type=kotlin-application  
