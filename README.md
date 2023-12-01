@@ -32,6 +32,14 @@ https://youtu.be/xT8oP0wy-A0?si=qAlcQTdmTyFTfAOl
   - Written in JavaScript, Kotlin and C++( Android Studio는 JavaScript, Kotlin and C++ 로 만들어짐)
     - https://en.wikipedia.org/wiki/Android_Studio
 
+# 스프링 or 스프링부트
+```
+.conf 파일로 설정 구성 ,
+
+.yaml파일로 설정 구성
+
+둘중에 어떤걸 선호하는걸로 setting
+```
 
 # sdk로 자바랑 gradle 버젼 매니져
 
