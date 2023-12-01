@@ -1,3 +1,8 @@
+# 코틀린 코루틴 소개 (Android) | 오준석의 생존코딩
+https://youtu.be/n0o_797mf-M?si=UkCnF_wl9Gn37iGE
+
+<hr>
+
 # Kotlin Coroutines 톺아보기 | 당근마켓 Server 밋업 1회 | 당근테크
 
 https://youtu.be/eJF60hcz3EU?si=odnr6-LJCagEYLvF
