@@ -3,14 +3,19 @@
 - https://youtu.be/3TNm2tLw88A?si=bDLfJARNRRKOYOwb
 ```kt
 // val 키워드 : 변수에 값을 할당하게 되면 다시 재 할당을 시킬 수 없다.
+// Read Only
 val a : Int = 1
 
 // var 키워드 : 변수에 값을 재 할당 가능
+// Read & Write
 var d = 3 // 3
 d = 5 // 5로 변수의 값이 변경
 println(d) // 5 print
 
 ```
+
+- Learn Kotlin in 12 Minutes | Rahul Pandey https://youtu.be/iYrgWO2oibY?si=jcvewDR00NGEnjln
+
 
 # 코드스피츠90 - 코틀린 언어편 1회차 | 코드스피츠
 
