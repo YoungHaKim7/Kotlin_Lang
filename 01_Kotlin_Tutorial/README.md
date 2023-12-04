@@ -24,6 +24,13 @@ println(d) // 5 print
     - https://youtube.com/playlist?list=PLBNdLLaRx_rL1IC9rW__KP0Lolk0kylyP&si=qSntYD_xoeRxWEv-
 
 
+# 한국 사람의 Android-dev-roadmap
+
+- https://github.com/skydoves/android-developer-roadmap
+- [ENG SUB] 국내 유일무이 코틀린 GDE가 말하는 안드로이드 미래 / Korea's Only Kotlin GDE Says Android Future | 컴공선배
+  - https://youtu.be/b-dRJnp17k4?si=zQKyXK0tG931OsD6
+
+
 <hr>
 
 # eBook
