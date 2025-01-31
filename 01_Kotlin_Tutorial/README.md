@@ -1,3 +1,8 @@
+# kotlin 안드로이드 기초
+- https://developer.android.com/courses/android-basics-compose/course?hl=ko
+
+<hr />
+
 # 안드로이드 코틀린 문법 #1 변수와 데이터 타입 (Variable) - 쉽게 앱 만드는 방법 (현직 개발자 설명) , android kotlin syntax tutorial | hongdroid홍드로이드
 
 - https://youtu.be/3TNm2tLw88A?si=bDLfJARNRRKOYOwb
